@@ -1,2 +1,2 @@
 # TropsmartPage.github.io
-permalink: /index.html
+permalink: /pages/index.html
